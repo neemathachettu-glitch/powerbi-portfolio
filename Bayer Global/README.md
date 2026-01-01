@@ -27,4 +27,5 @@ This dashboard enables stakeholders to:
 - Identify high-performing regions and products
 - Make data-driven decisions using visual insights
 
+Dashboard Preview
 ![Dashboard Overview](dashboard_overview.png)
