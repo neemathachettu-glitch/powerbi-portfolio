@@ -26,3 +26,5 @@ This dashboard enables stakeholders to:
 - Monitor overall sales performance
 - Identify high-performing regions and products
 - Make data-driven decisions using visual insights
+
+![Dashboard Overview](dashboard_overview.png)
