@@ -28,4 +28,5 @@ This dashboard enables stakeholders to:
 - Make data-driven decisions using visual insights
 
 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview]
+(dashboard_overview.png)
